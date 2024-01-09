@@ -1,5 +1,1 @@
-theme: jekyll-theme-Cayman
-
-
-# coursera-test
-coursera test repository
+theme: jekyll-theme-minimal
